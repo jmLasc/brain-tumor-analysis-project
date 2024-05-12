@@ -19,5 +19,7 @@ Each ipynb corresponds to a different model, but each all have the following fea
 	- TTA Evaluation
 ## Contributions
 Minseo - resnet.ipynb
+
 Jude - README.md, vit.ipynb
+
 Mary - alexnet.ipynb
